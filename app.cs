@@ -4,7 +4,7 @@ class App
 {
     static void Main()
     {
-        Console.WriteLine("Калькулятор v2.0-GITHUB");
+        Console.WriteLine("Калькулятор v2.0-FINAL");
         
         int result = Subtract(30, 12);
         Console.WriteLine($"Разность: {result}");
